@@ -1,0 +1,5 @@
+language: csharp
+solution: WebcamProj.sln
+mono:
+  - latest
+  - 3.12.0
