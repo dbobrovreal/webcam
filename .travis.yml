@@ -1,8 +1,0 @@
-language: csharp
-solution: WebcamProj.sln
-script:
-xbuild /p:Configuration=Release WebcamProj.sln
-mono:
-  - latest
-  - 3.12.0
-  - 3.10.0
