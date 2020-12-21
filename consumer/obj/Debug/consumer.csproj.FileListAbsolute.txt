@@ -1,0 +1,17 @@
+C:\Users\gitko\source\repos\WebcamProj\consumer\bin\Debug\consumer.exe.config
+C:\Users\gitko\source\repos\WebcamProj\consumer\bin\Debug\consumer.exe
+C:\Users\gitko\source\repos\WebcamProj\consumer\bin\Debug\consumer.pdb
+C:\Users\gitko\source\repos\WebcamProj\consumer\obj\Debug\consumer.csprojAssemblyReference.cache
+C:\Users\gitko\source\repos\WebcamProj\consumer\obj\Debug\consumer.Form1.resources
+C:\Users\gitko\source\repos\WebcamProj\consumer\obj\Debug\consumer.Properties.Resources.resources
+C:\Users\gitko\source\repos\WebcamProj\consumer\obj\Debug\consumer.csproj.GenerateResource.cache
+C:\Users\gitko\source\repos\WebcamProj\consumer\obj\Debug\consumer.csproj.CoreCompileInputs.cache
+C:\Users\gitko\source\repos\WebcamProj\consumer\obj\Debug\consumer.exe
+C:\Users\gitko\source\repos\WebcamProj\consumer\obj\Debug\consumer.pdb
+C:\Users\gitko\source\repos\WebcamProj\consumer\bin\Debug\AForge.dll
+C:\Users\gitko\source\repos\WebcamProj\consumer\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\gitko\source\repos\WebcamProj\consumer\bin\Debug\AForge.Video.dll
+C:\Users\gitko\source\repos\WebcamProj\consumer\bin\Debug\AForge.xml
+C:\Users\gitko\source\repos\WebcamProj\consumer\bin\Debug\AForge.Video.xml
+C:\Users\gitko\source\repos\WebcamProj\consumer\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\gitko\source\repos\WebcamProj\consumer\obj\Debug\consumer.csproj.CopyComplete

@@ -1,0 +1,14 @@
+C:\Users\gitko\source\repos\WebcamProj\producer\bin\Release\producer.exe.config
+C:\Users\gitko\source\repos\WebcamProj\producer\bin\Release\producer.exe
+C:\Users\gitko\source\repos\WebcamProj\producer\bin\Release\producer.pdb
+C:\Users\gitko\source\repos\WebcamProj\producer\bin\Release\AForge.dll
+C:\Users\gitko\source\repos\WebcamProj\producer\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\gitko\source\repos\WebcamProj\producer\bin\Release\AForge.Video.dll
+C:\Users\gitko\source\repos\WebcamProj\producer\bin\Release\AForge.xml
+C:\Users\gitko\source\repos\WebcamProj\producer\bin\Release\AForge.Video.xml
+C:\Users\gitko\source\repos\WebcamProj\producer\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\gitko\source\repos\WebcamProj\producer\obj\Release\producer.csprojAssemblyReference.cache
+C:\Users\gitko\source\repos\WebcamProj\producer\obj\Release\producer.csproj.CoreCompileInputs.cache
+C:\Users\gitko\source\repos\WebcamProj\producer\obj\Release\producer.csproj.CopyComplete
+C:\Users\gitko\source\repos\WebcamProj\producer\obj\Release\producer.exe
+C:\Users\gitko\source\repos\WebcamProj\producer\obj\Release\producer.pdb
