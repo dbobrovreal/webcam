@@ -1,2 +1,2 @@
 # webcam
-[![Build Status](https://travis-ci.com/dbobrovreal/webcam.svg?branch=master)](https://travis-ci.com/dbobrovreal/webcam)
+[![Build Status](https://travis-ci.com/dbobrovreal/webcam.svg?branch=main)](https://travis-ci.com/dbobrovreal/webcam)
